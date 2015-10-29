@@ -1,0 +1,15 @@
+{
+  "name": "polytest",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.2.0",
+    "iron-input": "PolymerElements/iron-input#~1.0.6"
+  }
+}
